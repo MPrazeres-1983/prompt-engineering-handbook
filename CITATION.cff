@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "Prompt Engineering Handbook: Applied Playbook + Research Artefacts"
+message: "If you use this handbook or templates, please cite it."
+type: book
+authors:
+  - family-names: "Prazeres"
+    given-names: "Mário"
+version: 1.0.0
+date-released: 2026-02-18
+url: "https://github.com/MPrazeres-1983/prompt-engineering-handbook"
